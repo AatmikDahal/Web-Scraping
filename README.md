@@ -1,9 +1,11 @@
 # Web-Scraping
 
-Web scraping using Python using 
-- BeautifulSoup -> Used for HTML parsing
-- requests -> used to get website's HTML data
-- Selenium libraries -> Used to scraped websites with Javascript
+Web scraping with [Python](https://www.python.org/)
+
+Using the following Libraries: 
+- [BeautifulSou](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) -> Used for HTML parsing
+- [requests](https://requests.readthedocs.io/en/latest/) -> used to get website's HTML data
+- [Selenium](https://www.selenium.dev/) libraries -> Used to scraped websites with Javascript
 
 Website Scraped
 - [quotes.toscrape.com](http://quotes.toscrape.com/)
