@@ -1,4 +1,4 @@
-#Scraping Project 1
+
 ## Scraping quotes.toscrape.com
 
 Scraping the [quotes.toscrape.com](http://quotes.toscrape.com/).\
