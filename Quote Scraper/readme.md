@@ -7,7 +7,7 @@ Scraping the [quotes.toscrape.com](http://quotes.toscrape.com/).\
 **Language used :**
 - [Python](https://www.python.org/)
 
-**Library Used: ** 
+**Library Used:** 
 - [bs4/ BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [requests](https://requests.readthedocs.io/en/latest/)
 
