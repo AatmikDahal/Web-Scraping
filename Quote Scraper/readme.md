@@ -5,11 +5,11 @@ Scraping the [quotes.toscrape.com](http://quotes.toscrape.com/).\
 [toscrape.com](https://toscrape.com/) websites are created specifically for scraping purposes and no persmission is needed for scraping them
 
 **Language used :**
-- Python
+- [Python](https://www.python.org/)
 
-**Library used: **
-- bs4 / BeautifulSoup
-- requests
+**Library Used: ** 
+- [bs4/ BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [requests](https://requests.readthedocs.io/en/latest/)
 
 _**# Note to users**_
 
