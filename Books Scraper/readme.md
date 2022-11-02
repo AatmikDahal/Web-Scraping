@@ -1,4 +1,4 @@
-## Scraping quotes.toscrape.com
+## Scraping books.toscrape.com
 
 Scraping the [books.toscrape.com](http://books.toscrape.com/).\
 [toscrape.com](https://toscrape.com/) websites are created specifically for scraping purposes and no persmission is needed for scraping them
