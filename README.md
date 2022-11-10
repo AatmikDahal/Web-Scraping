@@ -10,7 +10,7 @@ Using the following Libraries:
 Website Scraped
 - [quotes.toscrape.com](http://quotes.toscrape.com/)
 - [books.toscrape.com](http://books.toscrape.com/)
-- [quotes.toscrape.com/search.aspx](https://quotes.toscrape.com/filter.aspx) (Javascript version of quotes.toscrape.com)
+- [quotes.toscrape.com/search.aspx](https://quotes.toscrape.com/search.aspx) (Javascript version of quotes.toscrape.com)
 
- These sites made for scraping purposes no permission is needed, for more check : [toscrape.com](https://toscrape.com/)_
+ These sites made for scraping purposes no permission is needed, for more check : [toscrape.com](https://toscrape.com/)
 
